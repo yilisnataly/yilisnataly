@@ -12,7 +12,7 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yilisnataly&show_icons=true&theme=dark&locale=en" alt="helmcode" /></p>
 
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1_lf_DMfEG50b-zNR7f7vXFNDAHWM_KpP/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1J2Pznhz2G4WNOUxDC5049atREmWIGjUP/view?usp=sharing) to get more info.
 - 📫 How to reach me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/yilisnataly) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/yilis_nataly) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/yilisr/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](yilis.nataly@gmail.com)
