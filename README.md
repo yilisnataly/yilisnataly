@@ -2,7 +2,7 @@
 
 :heart: DevOps | :black_heart: Gym | :blue_heart: Travel
  
- I am ***Yilis*** and I have recently completed a coding Bootcamp in DevOps, so I am constantly updating my skills. I have a technical backgroud where I have been working with several technologies, such as, Linux, MySQL, Python, Docker, Kubernetes, Helm charts, Ansible, Terraform, GCP, AWS, CI/CD, Jenkins, GitHub actions, GitHub, Prometheus y Grafana.
+ I am ***Yilis*** and I have recently completed a coding Bootcamp in DevOps, so I am constantly updating my professional skills. I have a technical backgroud where I have been working with several technologies, such as, Linux, MySQL, Python, Docker, Kubernetes, Helm charts, Ansible, Terraform, GCP, AWS, CI/CD, Jenkins, GitHub actions, GitHub, Prometheus y Grafana.
  
  Here you might find some of my projects where I have been working on.
  
