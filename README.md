@@ -10,8 +10,14 @@
  
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{yilisnataly}/count.svg" alt="yilisnataly :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilisnataly&show_icons=true&locale=en&layout=compact&theme=dark" alt="helmcode" /></p>
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yilisnataly&show_icons=true&theme=dark&locale=en" alt="helmcode" /></p>
 
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1J2Pznhz2G4WNOUxDC5049atREmWIGjUP/view?usp=sharing) to get more info.
