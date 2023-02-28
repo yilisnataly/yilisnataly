@@ -13,3 +13,7 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: yilisnataly/badge-readme@main
+        with:       
+          CREDLY_USER: ${{ secrets.CREDLY_USER }}
+          BADGE_SIZE: 100
+          NUMBER_LAST_BADGES: 24
