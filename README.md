@@ -9,6 +9,7 @@
  🔭I’m looking for new opportunities as a Junior Devops to consolidate my knowledge in the new technologies learned.
  
 <!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c8b4e58b-aa55-4da4-ba76-721a1435ed50 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
  
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
