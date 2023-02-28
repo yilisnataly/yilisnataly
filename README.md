@@ -8,6 +8,9 @@
  
  🔭I’m looking for new opportunities as a Junior Devops to consolidate my knowledge in the new technologies learned.
  
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+ 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 <h4 align="center">Visitor's count :eyes:</h4>
