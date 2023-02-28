@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: yilisnataly/badge-readme@main
+        uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           BADGE_SIZE: 100
