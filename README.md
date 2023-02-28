@@ -8,11 +8,13 @@
  
  🔭I’m looking for new opportunities as a Junior Devops to consolidate my knowledge in the new technologies learned.
  
+ ### My Latest badges <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
+ To see all the other badges are [here](https://www.credly.com/users/yilis-ramirez/badges/)
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c8b4e58b-aa55-4da4-ba76-721a1435ed50 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
  
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+### How about some stats ? <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -24,6 +26,7 @@
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yilisnataly&show_icons=true&theme=dark&locale=en" alt="helmcode" /></p>
 
+### Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" width="80">
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1J2Pznhz2G4WNOUxDC5049atREmWIGjUP/view?usp=sharing) to get more info.
 - 📫 How to reach me:
 
