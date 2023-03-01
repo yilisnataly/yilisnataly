@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<h1 align="center"> Hi there 👋 Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
 
 
 :heart: DevOps | :black_heart: Gym | :blue_heart: Travel
