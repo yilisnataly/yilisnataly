@@ -22,7 +22,7 @@ I am ***Yilis***, a highly motivated DevOps Engineer. I am passionate about buil
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/docker%20-%2300599C.svg?&style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-%231877F2.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/helm-%23F7DF1E.svg?&style=for-the-badge&logo=helm&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/helm-white?&style=for-the-badge&logo=helm&logoColor=blue">
   <img src="https://img.shields.io/badge/ansible%20-%23121011.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/terraform%20-%2335495e.svg?&style=for-the-badge&logo=terraform&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/google cloud-%23dd4814.svg?&style=for-the-badge&logo=google cloud&logoColor=white">
@@ -31,7 +31,7 @@ I am ***Yilis***, a highly motivated DevOps Engineer. I am passionate about buil
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/prometheus%20-%23F05033.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/grafana-%23F7DF1E.svg?&style=for-the-badge&logo=grafana&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/grafana-grey?&style=for-the-badge&logo=grafana&logoColor=orange">
   <img src="https://img.shields.io/badge/elasticsearch-%23E4405F.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white">
  
 ## How about some stats ? <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
