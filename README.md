@@ -1,8 +1,12 @@
 <h1 align="center"> Hi there 👋 Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
+</div>
 
-:heart: DevOps | :black_heart: Gym | :blue_heart: Travel
- 
+
+<p align="center">:heart: DevOps | :black_heart: Gym | :blue_heart: Travel</p>
+
 I am ***Yilis***, a highly motivated DevOps Engineer. I am passionate about building and maintaining infrastructure in cloud, and I have a strong interest in continuous integration and deployment. Excited to learn and grow in the field of DevOps.
   
  - 🌱Here you might find some of my projects where I have been working on.
