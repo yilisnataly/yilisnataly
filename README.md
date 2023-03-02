@@ -3,11 +3,10 @@
 
 :heart: DevOps | :black_heart: Gym | :blue_heart: Travel
  
- I am ***Yilis*** and I have recently completed a coding Bootcamp in DevOps, I am constantly updating my professional skills. I have a technical backgroud where I have been working with several technologies, such as, Linux, MySQL, Python, Docker, Kubernetes, Helm charts, Ansible, Terraform, GCP, AWS, CI/CD, Jenkins, GitHub actions, GitHub, Prometheus and Grafana.
- 
- Here you might find some of my projects where I have been working on.
- 
- 🔭I’m looking for new opportunities as a Junior Devops to consolidate my knowledge in the new technologies learned.
+I am ***Yilis***, a highly motivated DevOps Engineer. I am passionate about building and maintaining infrastructure in cloud, and I have a strong interest in continuous integration and deployment. Excited to learn and grow in the field of DevOps.
+  
+ - 🌱Here you might find some of my projects where I have been working on.
+ - 🔭I’m currently preparing for AWS certified solutions architect associate. 
  
  ## My Latest badges <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
  To see all the other badges are [here](https://www.credly.com/users/yilis-ramirez/badges/)
