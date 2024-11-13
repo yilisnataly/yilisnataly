@@ -37,6 +37,8 @@ I am ***Yilis***, a highly motivated DevOps Engineer. I am passionate about buil
   <img src="https://img.shields.io/badge/prometheus%20-%23F05033.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/grafana-grey?&style=for-the-badge&logo=grafana&logoColor=orange">
   <img src="https://img.shields.io/badge/elasticsearch-%23E4405F.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/podman-grey?&style=for-the-badge&logo=podman&logoColor=orange">
+  <img src="https://img.shields.io/badge/openshift-%231877F2.svg?&style=for-the-badge&logo=openshift&logoColor=white">
  
 ## How about some stats ? <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
